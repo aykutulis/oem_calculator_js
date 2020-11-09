@@ -1,2 +1,2 @@
 # aykutulis-oem_calculator
-js module
+js module pattern working
