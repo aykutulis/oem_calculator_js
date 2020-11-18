@@ -1,2 +1,4 @@
 # aykutulis-oem_calculator
-js module pattern working
+vanilla-js, localstorage module pattern working.
+
+GitHub Pages: https://aykutulis.github.io/oem_calculator_js/
